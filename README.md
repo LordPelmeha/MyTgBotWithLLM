@@ -35,5 +35,8 @@ pip install -r requirements.txt
 
 ## Запуск
 - Запустить сервер в LM Studio
-- Запустить код
+- Запустить код командой 
+```bash
+python bot.py
+```
 - Запустить бота в Telegram (имя бота: @nottoolargellmbot)
